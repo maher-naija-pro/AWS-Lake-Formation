@@ -25,8 +25,8 @@ aws provider
 ## Getting Started
 ---
 To get started, follow these steps:
-1. :
-   'terraform apply'
+
+ 'terraform apply'
 
 ## License
 ---
