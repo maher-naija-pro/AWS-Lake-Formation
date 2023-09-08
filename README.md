@@ -25,14 +25,11 @@ aws provider
 ## Getting Started
 ---
 To get started, follow these steps:
-1. : What to do
+1. :
    
    `cmd`
-   // Insert code example here
    
-3. : What to do
-   
-   `cmd`
+   // terraform apply
 
 ## License
 ---
