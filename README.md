@@ -26,10 +26,7 @@ aws provider
 ---
 To get started, follow these steps:
 1. :
-   
-   `cmd`
-   
-   // terraform apply
+   'terraform apply'
 
 ## License
 ---
